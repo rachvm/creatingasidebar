@@ -21,7 +21,7 @@ export default function Sidebar () {
                 '& .MuiDrawer-paper': {
                 width: drawerWidth,
                 boxSizing: 'border-box',
-                backgroundColor: '#05204A',
+                backgroundColor: '#00648F',
                 position: "fixed",
                 zIndex: 1,
                 },
